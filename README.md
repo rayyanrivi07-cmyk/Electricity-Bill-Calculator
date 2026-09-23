@@ -66,17 +66,7 @@ or:
 
 ```bash
 python3 --version
-```
 
-### Step 2: Download the Project
-
-Clone this repository using:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Then open the project folder in VS Code.
 
 ### Step 3: Run the Program
 
